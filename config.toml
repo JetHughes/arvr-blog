@@ -1,0 +1,7 @@
+baseURL = "https://jethughes.github.io/personal-site/"
+title = "Jeanne's Journal"
+theme = "hugo-theme-texify"
+languageCode = 'en-us'
+
+[build]
+publishDir = "docs"
