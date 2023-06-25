@@ -1,6 +1,6 @@
 baseURL = "https://jethughes.github.io/personal-site/"
 title = "Jeanne's Journal"
-theme = "hugo-theme-texify"
+theme = "mytheme"
 languageCode = 'en-us'
 
 [build]
