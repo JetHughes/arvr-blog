@@ -1,0 +1,18 @@
+{{ define "head" }}
+<link rel="stylesheet" href='{{"css/index.css"}}'>
+{{ end }}
+
+{{ define "main" }}
+<main id="main" class="index">
+  {{ range .Site.RegularPages}}
+  <div class="post">
+    <h2> 
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    <div class="content">
+      {{ .Summary }}
+    </div>
+  </div>
+  {{ end }}
+</main>
+{{ end }}

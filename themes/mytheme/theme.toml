@@ -1,0 +1,12 @@
+name = "Jeanne"
+license = "MIT"
+licenselink = "https://github.com/jethughes/hugo-theme-jeanne/blob/main/LICENSE"
+description = "A minimal hugo theme for personal blogging"
+homepage = "https://github.com/jethughes/hugo-theme-jeanne/"
+tags = ["blog", "clean", "latex", "light", "minimal", "responsive", "simple"]
+features = ["blog"]
+min_version = "0.10"
+
+[author]
+name = "Jethughes"
+homepage = "https://github.com/jethughes/"
