@@ -1,0 +1,3 @@
+# weareallrocks
+
+A Hugo Blog
