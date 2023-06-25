@@ -1,5 +1,5 @@
-baseURL = "https://jethughes.github.io/personal-site/"
-title = "Jeanne's Journal"
+baseURL = "www.weareall.rocks"
+title = "We Are All Rocks"
 theme = "hugo-theme-texify"
 languageCode = 'en-us'
 
