@@ -1,5 +1,5 @@
-baseURL = "www.weareall.rocks"
-title = "We Are All Rocks"
+baseURL = "jethughes.github.io/arvr-blog"
+title = "ARVR Blog"
 theme = "hugo-theme-texify"
 languageCode = 'en-us'
 

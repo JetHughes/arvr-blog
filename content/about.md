@@ -1,5 +1,5 @@
-Hi Im Jeanne
+Hi Im Jet
 
-I like to do things 
+I like Virtual and Augmented Reality
 
-These are my thoughts :)
+This is my blog :)
