@@ -1,6 +1,6 @@
 baseURL = "jethughes.github.io/arvr-blog"
 title = "ARVR Blog"
-theme = "hugo-theme-texify"
+theme = "hugo-theme-fork"
 languageCode = 'en-us'
 
 [build]
