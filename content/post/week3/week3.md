@@ -1,6 +1,6 @@
 ---
 title: "Week 3: Cameras and Games"
-date: 2023-07-21T14:13:31+12:00
+date: 2023-07-28T18:10:00+12:00
 ---
 
 Week 3. What is there to say. We still haven't started the project. I assume that Holger will make it quite clear when we should be starting work on the project. I suppose I can just start working on it whenever I like. 
