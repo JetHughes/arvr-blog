@@ -1,3 +1,8 @@
+---
+title: "Week 2: Getting started"
+date: 2023-07-21T14:13:31+12:00
+---
+
 Week 3. What is there to say. We still haven't started the project. I assume that Holger will make it quite clear when we should be starting work on the project. I suppose I can just start working on it whenever I like. 
 
 In the lab today Holger mentioned that we don't need to use the techniques we learn in the labs for our projects. This is good, for some reason I thought that maybe we should be using them in the project. It would be ideal to use them I guess but it's good to know I have plenty of room to make what I want. 
