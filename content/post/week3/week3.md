@@ -1,5 +1,5 @@
 ---
-title: "Week 2: Getting started"
+title: "Week 3: Cameras and Games"
 date: 2023-07-21T14:13:31+12:00
 ---
 
