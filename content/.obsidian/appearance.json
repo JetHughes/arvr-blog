@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 19,
+  "cssTheme": "",
+  "theme": "moonstone",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "line_spacing",
+    "typora"
+  ],
+  "accentColor": "#3c8c8c",
+  "showViewHeader": false,
+  "textFontFamily": "Adobe Devanagari"
+}

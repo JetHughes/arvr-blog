@@ -1,0 +1,17 @@
+.markdown-source-view.mod-cm6 .cm-line{
+padding-bottom:24px;
+}
+
+.theme-light {
+    --color-base-00: #f3f2ee;
+    --color-base-10: #f3f2ee;
+    --color-base-20: #f3f2ee;
+    --color-base-30: #f3f2ee;
+    --color-base-05: #f3f2ee;
+}
+
+.workspace-tab-header,
+.workspace-tab-header-new-tab,
+.workspace-tab-header-tab-list {
+    display: none !important; 
+}

@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "4dbd74d3741b3333",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa6e8313b15dcec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17622037b2a31af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typora for obsidian.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c010cb1b4cf6eb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3182921b0c64b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25445e27567deb36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9e5231bb0eeb6c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2023dc19131c514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63725c543d0a17ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "typora for obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 454,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "17622037b2a31af5",
+  "lastOpenFiles": [
+    "new post.md",
+    "typora for obsidian.md",
+    "Jet Hughes",
+    "Untitled.md",
+    "yay zen.md",
+    "test.md",
+    "Untitled 1.md",
+    "content/post/test/test.md",
+    "content/post/test",
+    "content/post",
+    "content",
+    "notes/info-351.md",
+    "notes/honours.md",
+    "notes/Eye-Perspective View Management for OSTHMDs.md",
+    "notes/ChromaGlasses.md",
+    "daily_notes/2023-07-29.md",
+    "notes/alex_debts.md",
+    "notes/17-linkers-and-loaders.md",
+    "notes/linker.md",
+    "notes/loader.md",
+    "notes/operating-system.md",
+    "notes/file-based-storage.md",
+    "notes/management-of-file-systems.md",
+    "notes/report-draft.md",
+    "notes/cosc-343.md",
+    "notes/tex2pdf.-2c7faaaee31ed173/input.pdf",
+    "notes/tex2pdf.-2c7faaaee31ed173/input.aux",
+    "notes/tex2pdf.-2c7faaaee31ed173/input.log",
+    "notes/tex2pdf.-2c7faaaee31ed173/input.tex",
+    "notes/tex2pdf.-2c7faaaee31ed173",
+    "daily_notes/2023-07-28.md",
+    "daily_notes/2023-07-27.md",
+    "daily_notes/2023-07-26.md",
+    "notes/02-terms-definitions-concepts.md",
+    "notes/08-debugging.md",
+    "private/template",
+    "Accuracy vs precision.png",
+    "Embeddedness vs Mobility scale.png",
+    "example vertex buffer object.png",
+    "lateration.png",
+    "orientation filtering.png",
+    "343.canvas",
+    "301.canvas",
+    "305-canvas.canvas",
+    "342-canvas.canvas",
+    "342-canvas.sync-conflict-20230611-130239-PV7R7AH.canvas",
+    "cell-characteristics.png",
+    "Angulation.png",
+    "shadow terminology.png",
+    "phong-reflection equation.png",
+    "Pasted image 20230608193652.png"
+  ]
+}
