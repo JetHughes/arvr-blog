@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa6e8313b15dcec6",
+        "id": "39245493df526f9f",
         "type": "tabs",
         "children": [
           {
-            "id": "17622037b2a31af5",
+            "id": "0243ddd5200e92e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typora for obsidian.md",
+                "file": "post/week4/panoramas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -59,26 +59,7 @@
   "right": {
     "id": "9e5231bb0eeb6c35",
     "type": "split",
-    "children": [
-      {
-        "id": "d2023dc19131c514",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63725c543d0a17ea",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "typora for obsidian.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 454,
     "collapsed": true
@@ -87,15 +68,18 @@
     "hiddenItems": {
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17622037b2a31af5",
+  "active": "0243ddd5200e92e9",
   "lastOpenFiles": [
+    "post/week4/panoramas.md",
+    "post/week4/new.md",
+    "post/week4",
+    "Untitled.md",
     "new post.md",
     "typora for obsidian.md",
     "Jet Hughes",
-    "Untitled.md",
     "yay zen.md",
     "test.md",
     "Untitled 1.md",
@@ -125,9 +109,6 @@
     "daily_notes/2023-07-28.md",
     "daily_notes/2023-07-27.md",
     "daily_notes/2023-07-26.md",
-    "notes/02-terms-definitions-concepts.md",
-    "notes/08-debugging.md",
-    "private/template",
     "Accuracy vs precision.png",
     "Embeddedness vs Mobility scale.png",
     "example vertex buffer object.png",
