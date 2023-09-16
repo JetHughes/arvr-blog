@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/week4/panoramas.md",
+                "file": "post/week8/post.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -59,7 +59,26 @@
   "right": {
     "id": "9e5231bb0eeb6c35",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "420635c5c5edad50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e430fbcc791dda9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "post/week8/post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 454,
     "collapsed": true
@@ -74,6 +93,8 @@
   "active": "0243ddd5200e92e9",
   "lastOpenFiles": [
     "post/week4/panoramas.md",
+    "post/week8/post.md",
+    "post/week8",
     "post/week4/new.md",
     "post/week4",
     "Untitled.md",
@@ -105,10 +126,8 @@
     "notes/tex2pdf.-2c7faaaee31ed173/input.aux",
     "notes/tex2pdf.-2c7faaaee31ed173/input.log",
     "notes/tex2pdf.-2c7faaaee31ed173/input.tex",
-    "notes/tex2pdf.-2c7faaaee31ed173",
     "daily_notes/2023-07-28.md",
     "daily_notes/2023-07-27.md",
-    "daily_notes/2023-07-26.md",
     "Accuracy vs precision.png",
     "Embeddedness vs Mobility scale.png",
     "example vertex buffer object.png",

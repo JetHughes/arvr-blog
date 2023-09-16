@@ -456,5 +456,13 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
   ]
 }
