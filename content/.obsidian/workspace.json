@@ -61,11 +61,11 @@
     "type": "split",
     "children": [
       {
-        "id": "420635c5c5edad50",
+        "id": "3434dfff5b4a8e60",
         "type": "tabs",
         "children": [
           {
-            "id": "e430fbcc791dda9d",
+            "id": "4b20eeab9a98d473",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -92,9 +92,16 @@
   },
   "active": "0243ddd5200e92e9",
   "lastOpenFiles": [
-    "post/week4/panoramas.md",
+    "post/week5/number5.md",
     "post/week8/post.md",
     "post/week8",
+    "post/week6/it-begins.md",
+    "post/week6",
+    "post/another-post/another-post.md",
+    "post/first-post/first-post.md",
+    "post/week2/week2.md",
+    "post/week4/panoramas.md",
+    "post/week5",
     "post/week4/new.md",
     "post/week4",
     "Untitled.md",
@@ -119,15 +126,8 @@
     "notes/loader.md",
     "notes/operating-system.md",
     "notes/file-based-storage.md",
-    "notes/management-of-file-systems.md",
-    "notes/report-draft.md",
-    "notes/cosc-343.md",
     "notes/tex2pdf.-2c7faaaee31ed173/input.pdf",
     "notes/tex2pdf.-2c7faaaee31ed173/input.aux",
-    "notes/tex2pdf.-2c7faaaee31ed173/input.log",
-    "notes/tex2pdf.-2c7faaaee31ed173/input.tex",
-    "daily_notes/2023-07-28.md",
-    "daily_notes/2023-07-27.md",
     "Accuracy vs precision.png",
     "Embeddedness vs Mobility scale.png",
     "example vertex buffer object.png",
