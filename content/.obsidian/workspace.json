@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "39245493df526f9f",
+        "id": "c6a45b8905d1cb5c",
         "type": "tabs",
         "children": [
           {
-            "id": "0243ddd5200e92e9",
+            "id": "938b1d91cf905534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/week8/post.md",
+                "file": "post/week12/post.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/week8/post.md",
+                "file": "post/week12/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,16 +90,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0243ddd5200e92e9",
+  "active": "938b1d91cf905534",
   "lastOpenFiles": [
-    "post/week5/number5.md",
+    "post/week12/post.md",
+    "post/week2/week2.md",
     "post/week8/post.md",
+    "post/week5/number5.md",
     "post/week8",
     "post/week6/it-begins.md",
     "post/week6",
     "post/another-post/another-post.md",
     "post/first-post/first-post.md",
-    "post/week2/week2.md",
     "post/week4/panoramas.md",
     "post/week5",
     "post/week4/new.md",
@@ -125,7 +126,6 @@
     "notes/linker.md",
     "notes/loader.md",
     "notes/operating-system.md",
-    "notes/file-based-storage.md",
     "notes/tex2pdf.-2c7faaaee31ed173/input.pdf",
     "notes/tex2pdf.-2c7faaaee31ed173/input.aux",
     "Accuracy vs precision.png",
