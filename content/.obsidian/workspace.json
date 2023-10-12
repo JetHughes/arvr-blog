@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a45b8905d1cb5c",
+        "id": "e10bb9deb650ec92",
         "type": "tabs",
         "children": [
           {
-            "id": "938b1d91cf905534",
+            "id": "0aafe16173f04d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,18 +90,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "938b1d91cf905534",
+  "active": "0aafe16173f04d5c",
   "lastOpenFiles": [
+    "post/week12/finished project.md",
     "post/week13/post.md",
+    "post/week13",
     "post/week12/post.md",
-    "post/week2/week2.md",
     "post/week8/post.md",
+    "post/week12",
     "post/week5/number5.md",
     "post/week8",
     "post/week6/it-begins.md",
     "post/week6",
     "post/another-post/another-post.md",
     "post/first-post/first-post.md",
+    "post/week2/week2.md",
     "post/week4/panoramas.md",
     "post/week5",
     "post/week4/new.md",
@@ -125,9 +128,6 @@
     "notes/alex_debts.md",
     "notes/17-linkers-and-loaders.md",
     "notes/linker.md",
-    "notes/loader.md",
-    "notes/tex2pdf.-2c7faaaee31ed173/input.pdf",
-    "notes/tex2pdf.-2c7faaaee31ed173/input.aux",
     "Accuracy vs precision.png",
     "Embeddedness vs Mobility scale.png",
     "example vertex buffer object.png",
