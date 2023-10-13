@@ -4,16 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "e10bb9deb650ec92",
+        "id": "af0648aef49d6e11",
         "type": "tabs",
         "children": [
           {
-            "id": "0aafe16173f04d5c",
+            "id": "8c6c6ac035929ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/week8/post.md",
+                "file": "post/week13/post.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "763d4bd8e49a05fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/week12/post.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3809b2a5d9db13b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/week12/post.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "30a5485fe4ee824d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/week13/post.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/week8/post.md",
+                "file": "post/week13/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,11 +129,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0aafe16173f04d5c",
+  "active": "8c6c6ac035929ced",
   "lastOpenFiles": [
     "post/week12/post.md",
-    "post/week8/post.md",
     "post/week13/post.md",
+    "post/week10/post.md",
+    "post/week10",
+    "post/week8/post.md",
     "post/week12/finished project.md",
     "post/week13",
     "post/week12",
@@ -119,7 +160,6 @@
     "content/post/test/test.md",
     "content/post/test",
     "content/post",
-    "content",
     "notes/info-351.md",
     "notes/honours.md",
     "notes/Eye-Perspective View Management for OSTHMDs.md",
@@ -127,7 +167,6 @@
     "daily_notes/2023-07-29.md",
     "notes/alex_debts.md",
     "notes/17-linkers-and-loaders.md",
-    "notes/linker.md",
     "Accuracy vs precision.png",
     "Embeddedness vs Mobility scale.png",
     "example vertex buffer object.png",
