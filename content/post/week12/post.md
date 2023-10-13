@@ -1,6 +1,6 @@
 ---
 title: "Week 12: Demo, Lecture, Project Completion"
-date: 2023-10-13T11:12:00+12:00
+date: 2023-10-02T11:12:00+12:00
 ---
 Okay I missed this one. So I'm going back to write it now. Last week I showed my demo to the people from the Ātea project. I was only little nervous. I was prepared and I knew that the game worked even though it wasn't beautiful or polished. I had to run it on my laptop though and I guess I was lucky we didn't have a super computationally expensive game (and also that my laptop was good enough to run the VR on). 
 
